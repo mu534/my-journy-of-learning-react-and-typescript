@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+# Expense Tracker
+A mini-project built with React and TypeScript to track personal expenses. The app allows users to:
+
+Add, edit, and delete expenses.
+Categorize and filter expenses by date, amount, or category.
+Visualize spending trends with interactive charts.
